@@ -1,2 +1,2 @@
 # To-do-list
-command line app
+1 . command line app using to do list
